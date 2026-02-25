@@ -1,9 +1,7 @@
 # Richard Okoro  
 Aspiring SOC Analyst | ISC2 CC | Security+ (In Progress) | ISACA Member
 
-Cybersecurity professional transitioning from IT support into Security Operations, with focus on threat detection, incident response, log analysis, and risk management.
-
-I am developing practical, hands-on cybersecurity skills aligned with real-world SOC environments and international security standards.
+Entry-level cybersecurity professional with a background in IT systems administration and a focus on Security Operations. Skilled in log analysis, phishing investigation, Linux security fundamentals, and risk management practices. Currently strengthening knowledge across Security+ domains while building practical investigation and documentation experience aligned with SOC workflows.
 
 ---
 
