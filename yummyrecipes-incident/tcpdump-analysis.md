@@ -77,5 +77,5 @@
 
 - Restart DNS service and ensure **UDP port 53 is open** on all firewalls.  
 - Test client access and website availability.  
-- Implement monitoring(SIEM) to alert on DNS failures in the future.
+- Implement centralized logging and Security Information and Event Management (SIEM) monitoring to detect and alert on DNS service disruptions or abnormal traffic patterns in real time.
 - Deploy IDS/IPS and Harden Firewall rules to mitigate against possible DOS attacks
