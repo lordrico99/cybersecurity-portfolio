@@ -1,4 +1,4 @@
-# Risk Summary – Botium Toys
+# Risk Summary and Recommendations – Botium Toys
 
 **Critical Assets:** Employee devices, servers, POS systems, internal network, ecommerce systems
 
