@@ -24,12 +24,12 @@ The website administrator was unable to access the admin panel due to credential
 
 ## Investigation Process
 
--Incident escalated following confirmation of website compromise
--Sandbox environment established for safe malware analysis
--Network traffic captured using tcpdump
--Website interaction reproduced in controlled environment
--Executable download observed
--Browser redirect to malicious domain confirmed
+- Incident escalated following confirmation of website compromise
+- Sandbox environment established for safe malware analysis
+- Network traffic captured using tcpdump
+- Website interaction reproduced in controlled environment
+- Executable download observed
+- Browser redirect to malicious domain confirmed
 
 ---
 
