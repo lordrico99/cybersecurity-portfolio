@@ -59,7 +59,8 @@ This repository contains structured cybersecurity labs and investigations demons
 - SQL-Based Log Analysis  
 - Network Traffic Analysis  
 - Risk Register Development  
-- Python Log Parsing Script  
+- Python Log Parsing Script
+- Modifying File Permissions in Linux
 
 Each project includes:
 - Scenario overview  
